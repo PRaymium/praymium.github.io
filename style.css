@@ -56,6 +56,12 @@
     z-index: -5;
 }
 
+a:link, a:visited, a:active
+{
+    color: #f5f5f5;
+    text-decoration: none;
+}
+
 body
 {
    margin: 0;

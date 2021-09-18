@@ -56,12 +56,6 @@
     z-index: -5;
 }
 
-a
-{
-    color: #f5f5f5;
-    text-decoration: none;
-}
-
 body
 {
    margin: 0;
@@ -138,6 +132,8 @@ body
     align-items: center;
     margin: 0 10px;
     transition: .15s ease-in-out;
+    color: #f5f5f5;
+    text-decoration: none;
 }
 
 .contact:hover

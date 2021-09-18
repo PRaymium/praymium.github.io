@@ -209,9 +209,14 @@ body
     margin-left: 2vw;
 }
 
-.welcome-text>b>span
+.welcome-text>b>span:nth-child(1)
 {
     font-size: 1.5em;
+}
+
+.welcome-text-logo
+{
+    font-family: Reem Kufi;
 }
 
 .photo

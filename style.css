@@ -305,4 +305,17 @@ body
     {
         margin: 0px;
     }
+
+    .photo
+    {
+        height: 60%;
+    }
+}
+
+@media (max-width: 450px)
+{
+    body
+    {
+        font-size: 16px;
+    }
 }

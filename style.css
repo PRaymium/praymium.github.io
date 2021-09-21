@@ -213,8 +213,8 @@ body
     display: flex;
     justify-content: space-between;
     align-items: center;
-    height: inherit;
-    margin-top: 2vh;
+    height: 52vh;
+    padding-top: 2vh;
 }
 
 .welcome-text

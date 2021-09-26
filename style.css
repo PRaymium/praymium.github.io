@@ -1,6 +1,21 @@
 @import url('https://fonts.googleapis.com/css2?family=Reem+Kufi&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Rosarivo:ital@0;1&display=swap');
 
+::-webkit-scrollbar {
+    width: 3px;
+    background-color: #f9f9fd;
+  }
+  
+::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    background-color: #00CCA3;
+  }
+  
+::-webkit-scrollbar-track {
+    border-radius: 10px;
+    background-color: #f5f5f5;
+  }
+
 .pre-logo-container
 {
     position: absolute;

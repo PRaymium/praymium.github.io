@@ -74,7 +74,7 @@ body
 {
     width: 100%;
     max-width: 1080px;
-    height: 1080px;
+    height: 969px;
     margin: 0 auto;
 }
 
@@ -248,7 +248,7 @@ body
 
 .skills
 {
-    height: 450px;
+    height: 339px;
     width: 100%;
     display: flex;
     justify-content: center;

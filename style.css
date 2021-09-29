@@ -311,6 +311,20 @@ body
     }
 }
 
+
+@media screen and (max-width: 1080px)
+{
+    .contact-email:hover::after
+    {
+        margin-top: 100px;
+    }
+    
+    .contact-phone:hover::after
+    {
+        margin-top: 125px;
+    }
+}
+
 @media screen and (max-width: 800px)
 {
     .items

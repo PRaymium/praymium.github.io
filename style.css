@@ -336,6 +336,16 @@ body
     {
         flex-direction: column;
     }
+
+    .contact-email:hover::after
+    {
+        margin-top: 85px;
+    }
+    
+    .contact-phone:hover::after
+    {
+        margin-top: 105px;
+    }
 }
 
 @media screen and (max-width: 450px)
@@ -344,6 +354,16 @@ body
     {
         font-size: 16px;
     }
+
+    .contact-email:hover::after
+    {
+        margin-top: 70px;
+    }
+    
+    .contact-phone:hover::after
+    {
+        margin-top: 85px;
+    }
 }
 
 @media screen and (max-width: 350px)
@@ -351,5 +371,15 @@ body
     body
     {
         font-size: 14px;
+    }
+
+    .contact-email:hover::after
+    {
+        margin-top: 60px;
+    }
+    
+    .contact-phone:hover::after
+    {
+        margin-top: 75px;
     }
 }

@@ -366,24 +366,6 @@ body
 {
     body
     {
-        font-size: 16px;
-    }
-
-    .contact-email:hover::after
-    {
-        margin-top: 70px;
-    }
-    
-    .contact-phone:hover::after
-    {
-        margin-top: 85px;
-    }
-}
-
-@media screen and (max-width: 350px)
-{
-    body
-    {
         font-size: 5vw;
     }
 
@@ -404,9 +386,14 @@ body
         font-size: 2.5em;
     }
 
+    .contact-email:hover::after
+    {
+        margin-top: 22vw;
+    }
+
     .contact-phone:hover::after
     {
-        margin-top: 70px;
+        margin-top: 22vw;
     }
 
     .contacts

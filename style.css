@@ -371,7 +371,7 @@ body
 
     .head
     {
-        border-radius: 0 0px 10px 10px;
+        border-radius: 0 0px 15px 15px;
     }
 
     .head-row
@@ -423,6 +423,11 @@ body
     .photo
     {
         width: 50%;
+    }
+
+    .skills
+    {
+        border-radius: 15px 15px 0px 0px;
     }
 
     .skills-row
